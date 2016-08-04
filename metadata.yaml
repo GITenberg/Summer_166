@@ -1,0 +1,44 @@
+_repo: Summer_166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: "Summer is a novel by Edith Wharton published in 1917 by Charles Scribner's\
+  \ Sons. The story is one of only two novels to be set in New England by Wharton,\
+  \ who was best known for her portrayals of upper-class New York society. The novel\
+  \ details the sexual awakening of its protagonist, Charity Royall, and her cruel\
+  \ treatment by the father of her child, and shares many plot similarities with Wharton's\
+  \ better-known novel, Ethan Frome. Only moderately well received when originally\
+  \ published, Summer has had a resurgence in critical popularity since the 1960s.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '166'
+  wikidata: Q7637251
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Berkshire Hills (Mass.) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Summer
+url: http://www.gutenberg.org/ebooks/166
+wikipedia:
+- https://en.wikipedia.org/wiki/Summer_(novel)
