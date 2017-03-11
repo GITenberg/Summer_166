@@ -1,5 +1,8 @@
 _repo: Summer_166
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -21,6 +24,8 @@ description: "Summer is a novel by Edith Wharton published in 1917 by Charles Sc
   \ better-known novel, Ethan Frome. Only moderately well received when originally\
   \ published, Summer has had a resurgence in critical popularity since the 1960s.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/166#Summer
 gutenberg_issued: '2006-03-12'
 gutenberg_type: Text
 identifiers:
